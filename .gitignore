@@ -12,3 +12,4 @@ Banco/merge
 # caches de LSP
 Banco/_superbol/
 Banco/.vscode/
+superbol.toml
