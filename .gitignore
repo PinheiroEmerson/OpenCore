@@ -1,0 +1,27 @@
+# Binários gerados pelo GnuCOBOL
+*.o
+*.so
+*.exe
+*.dll
+*.cbl.out
+*.cob.out
+
+# Pastas de build
+build/
+bin/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*~
+*.swp
+.DS_Store
+
+# Arquivos de dados de teste (se gerar)
+*.dat
+*.idx
+*.seq
+
+# Backups locais
+backup/
