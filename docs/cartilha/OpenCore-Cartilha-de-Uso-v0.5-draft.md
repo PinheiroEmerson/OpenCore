@@ -1,4 +1,4 @@
-Cartilha de Uso --- OpenCore
+# Cartilha de Uso — OpenCore
 
 v0.5-draft
 

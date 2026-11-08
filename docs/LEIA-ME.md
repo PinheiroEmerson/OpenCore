@@ -1,4 +1,4 @@
-OpenCore --- Por onde começar
+# OpenCore — Por onde começar
 
 Se você abriu esta pasta e não sabe em que ordem ler os arquivos, siga
 esta sequência.
