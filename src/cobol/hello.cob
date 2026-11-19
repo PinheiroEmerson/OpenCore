@@ -1,5 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HELLO.
+       AUTHOR. EMERSON PINHEIRO.       
        PROCEDURE DIVISION.
            DISPLAY "Hello, COBOL!".
            STOP RUN.
