@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. JUROS.
-       AUTHOR. ALVUS.
+       AUTHOR. ALVUS DUMBLEDORE.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
@@ -48,4 +48,3 @@
            END-PERFORM.
 
            STOP RUN.
-           
